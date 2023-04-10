@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
@@ -25,6 +25,3 @@ jobs:
 
       - name: Scrape posts and update README
         run: ruby ./.github/scripts/update_posts.rb
-        env:
-          GITHUB_TOKEN: $
-          GITHUB_REPOSITORY: $
