@@ -1,4 +1,6 @@
-# My side-projects
+# Ashish
+
+Hey, its Ashish here. More about me on my personal [website](https://ashishb.net/about/).
 
 ## Android
 
