@@ -1,43 +1,32 @@
 # Ashish
 
-Hey, its Ashish here. More about me on my personal [website](https://ashishb.net/about/).
+Hey, its Ashish here. More about me on my personal [website](https://ashishb.net/about/) or [LinkedIn](https://www.linkedin.com/in/ashish-b/).
 
-## Productivity
-
-1. My [dotfiles](https://github.com/ashishb/dotfiles) containing some of the best tools and setups for an engineer related to web3, Android, and infrastructure engineering
-1. A [backend template](https://github.com/ashishb/golang-template-repo) to kickstart Go-based projects on Google Cloud Run
-1. A [date parsing](https://github.com/ashishb/dateparse) library for Go that guesses the format and parses any dates
-
-## Devops
-
-1. [GitHub Actions Boilerplate generator](https://github.com/ashishb/gabo)
-1. [CircleCI analysis tool](https://github.com/ashishb/citool/)
-1. [Spammy/dead outbound link checker](https://github.com/ashishb/outbound-link-checker) for your blog
-
-## Android
-
-1. [adb-enhanced](https://github.com/ashishb/adb-enhanced) for Android developers
-1. [Auto Translate Android app GitHub action](https://github.com/ashishb/android-auto-translate) to translate non-English languages. I use it for [MusicSync](https://musicsync.ashishb.net/) and [VoiceNotes](https://play.google.com/store/apps/details?id=net.ashishb.voicenotes).
-
-## Security
-
-1. Collection of live [Android malware](https://github.com/ashishb/android-malware) samples for reasearch
-1. The most comprehensive [Android Security](https://github.com/ashishb/android-security-awesome) tools list
-
-## Blog posts
+## Blog posts & Tools
 
 ### Infrastructure
 
 If you are an infrastructure engineer consider my [Docker 101](https://ashishb.net/tech/docker-101-a-basic-web-server-displaying-hello-world/) blog post and then read how you can [deploy web services](https://ashishb.net/tech/how-to-deploy-side-projects-as-web-services-for-free) essentially with zero fixed costs. Afterwards, you might like reading the [pitfalls of Docker's scratch image](https://ashishb.net/all/docker-be-careful-about-the-scratch-image/). You might love or hate me for [questioning](https://ashishb.net/all/some-thoughts-on-low-code/) serverless functions lock-in.
 
+#### Tools
+
+1. My [dotfiles](https://github.com/ashishb/dotfiles) containing some of the best tools and setups for an engineer related to web3, Android, and infrastructure engineering
+1. A [backend template](https://github.com/ashishb/golang-template-repo) to kickstart Go-based projects on Google Cloud Run
+1. A [date parsing](https://github.com/ashishb/dateparse) library for Go that guesses the format and parses any dates
+
 ### Go Language
 
 If you use Go language, you would enjoy reading the [most common concurrency pitfall](https://ashishb.net/all/go-language-concurrency-and-an-easy-pitfall/) of the Go language for beginners. Or how to do [inheritance in Go](https://ashishb.net/all/inheritance-in-go-language/). Or writing [Generics in Go](https://ashishb.net/all/generics-in-go/) like Java and C++.
 
-### Devops
+### DevOps
 
-1. If you are a devops person, you would enjoy common pitfalls of [GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/).
-1. If you use bash, consider making it more [robust](https://ashishb.net/all/the-first-two-statements-of-your-bash-script-should-be/), this check would have prevented me from deleting my full disk! I really did that [once](https://ashishb.net/tech/my-rm-rf-moment/).
+If you are a devops person, you would enjoy common pitfalls of [GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/). If you use bash, consider making it more [robust](https://ashishb.net/all/the-first-two-statements-of-your-bash-script-should-be/), this check would have prevented me from deleting my full disk! I really did that [once](https://ashishb.net/tech/my-rm-rf-moment/).
+
+#### DevOps Tools
+
+1. [GitHub Actions Boilerplate generator](https://github.com/ashishb/gabo)
+1. [CircleCI analysis tool](https://github.com/ashishb/citool/)
+1. [Spammy/dead outbound link checker](https://github.com/ashishb/outbound-link-checker) for your blog
 
 ### Testing
 
@@ -50,6 +39,13 @@ If you use Go language, you would enjoy reading the [most common concurrency pit
 If you like Android, you would enjoy my critique of [React Native](https://ashishb.net/all/react-native/). A more technical reader would enjoy how to catch [NDK crashes](https://ashishb.net/all/android-catching-ndk-crashes/) and how to catch [crashes on Javascript-to-Java bridge](https://ashishb.net/tech/cross-language-bridge-error-handling-js-to-java-example/). An old but still relevant article on using [Android Fragments](https://ashishb.net/all/android-fragment-related-pitfalls-and-how-to-avoid-them/) without crashing the app. Or how to architect [Android apps from emerging markets](https://ashishb.net/tech/architecting-android-apps-for-emerging-markets/).
 
 If you are an Android user who loves listening to music or podcasts, consider switching to [MusicSync](https://musicsync.ashishb.net/), here's my [reasoning](https://ashishb.net/all/why-i-built-an-alternative-to-google-play-music/) behind building it.
+
+#### Android Tools
+
+1. [adb-enhanced](https://github.com/ashishb/adb-enhanced) is a swiss-army knife for Android development
+1. [Auto Translate Android app GitHub action](https://github.com/ashishb/android-auto-translate) to translate non-English languages. I use it for [MusicSync](https://musicsync.ashishb.net/) and [VoiceNotes](https://play.google.com/store/apps/details?id=net.ashishb.voicenotes).
+1. Collection of live [Android malware](https://github.com/ashishb/android-malware) samples for reasearch
+1. The most comprehensive [Android Security](https://github.com/ashishb/android-security-awesome) tools list
 
 ### UX
 
