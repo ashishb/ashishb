@@ -2,26 +2,26 @@
 
 Hey, its Ashish here. More about me on my personal [website](https://ashishb.net/about/).
 
-## Android
+## Productivity
 
-1. [adb-enhanced](https://github.com/ashishb/adb-enhanced) for Android developers
-1. [android-auto-translate](https://github.com/ashishb/android-auto-translate) a GitHub Action that helps in automatic translation of an Android app into non-English languages. I use it for [MusicSync](https://musicsync.ashishb.net/) and [VoiceNotes](https://play.google.com/store/apps/details?id=net.ashishb.voicenotes).
+1. My [dotfiles](https://github.com/ashishb/dotfiles) containing some of the best tools and setups for an engineer related to web3, Android, and infrastructure engineering
+1. A [backend template](https://github.com/ashishb/golang-template-repo) to kickstart Go-based projects on Google Cloud Run
+1. A [date parsing](https://github.com/ashishb/dateparse) library for Go that guesses the format and parses any dates
 
 ## Devops
 
-1. [GitHub Actions Boilerplate](https://github.com/ashishb/gabo) for anyone working with GitHub Actions
-1. [CITool](https://github.com/ashishb/citool/) for those using Circle CI
-1. [Outbound Link Checker](https://github.com/ashishb/outbound-link-checker) to catch supicious, spammy, and dead outbound links from your blog
+1. [GitHub Actions Boilerplate generator](https://github.com/ashishb/gabo)
+1. [CircleCI analysis tool](https://github.com/ashishb/citool/)
+1. [Spammy/dead outbound link checker](https://github.com/ashishb/outbound-link-checker) for your blog
 
-## Productivity
+## Android
 
-1. [dotfiles](https://github.com/ashishb/dotfiles) - My dotfiles containing some of the best tools and setups for an engineer
-1. [backend-template](https://github.com/ashishb/golang-template-repo) - A backend template repo to kickstart your project
-1. [dateparse](https://github.com/ashishb/dateparse) - A Go date parsing library that can figure out the format and parse any dates
+1. [adb-enhanced](https://github.com/ashishb/adb-enhanced) for Android developers
+1. [Auto Translate Android app GitHub action](https://github.com/ashishb/android-auto-translate) to translate non-English languages. I use it for [MusicSync](https://musicsync.ashishb.net/) and [VoiceNotes](https://play.google.com/store/apps/details?id=net.ashishb.voicenotes).
 
 ## Security
 
-1. [android-malware](https://github.com/ashishb/android-malware) is a collection of live Android malware samples for reasearch
-1. [android-security-awesome](https://github.com/ashishb/android-security-awesome) for anyone interested in Android Security
+1. Collection of live [Android malware](https://github.com/ashishb/android-malware) samples for reasearch
+1. The most comprehensive [Android Security](https://github.com/ashishb/android-security-awesome) tools list
 
 ## Recent blog posts
