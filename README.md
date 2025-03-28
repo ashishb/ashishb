@@ -1,18 +1,18 @@
 # Ashish
 
-Hey, Ashish here. More about me on my personal [website](https://ashishb.net/about/) or [LinkedIn](https://www.linkedin.com/in/ashish-b/).
+Hey, Ashish here. Learn more about me on my [website](https://ashishb.net/about/) or [LinkedIn](https://www.linkedin.com/in/ashish-b/).
 
 ## Blog posts & Tools
 
 ### Infrastructure
 
-If you are an infrastructure engineer consider my [Docker 101](https://ashishb.net/tech/docker-101-a-basic-web-server-displaying-hello-world/) blog post and then read how you can [deploy web services](https://ashishb.net/tech/how-to-deploy-side-projects-as-web-services-for-free) essentially with zero fixed costs. Afterward, you might like reading about the [pitfalls of Docker's scratch image](https://ashishb.net/all/docker-be-careful-about-the-scratch-image/). You might love or hate me for [questioning](https://ashishb.net/all/some-thoughts-on-low-code/) the serverless functions lock-in.
+If you are an infrastructure engineer, consider my [Docker 101](https://ashishb.net/tech/docker-101-a-basic-web-server-displaying-hello-world/) blog post and then read how you can [deploy web services](https://ashishb.net/tech/how-to-deploy-side-projects-as-web-services-for-free) essentially with zero fixed costs. Afterward, you might like reading about the [pitfalls of Docker's scratch image](https://ashishb.net/all/docker-be-careful-about-the-scratch-image/). You might love or hate me for [questioning](https://ashishb.net/all/some-thoughts-on-low-code/) the serverless functions lock-in.
 
 #### Tools
 
 1. My [dotfiles](https://github.com/ashishb/dotfiles) contain some of the best tools and setups for an engineer related to Android, infrastructure, and Web3 engineering
 1. A [backend template](https://github.com/ashishb/golang-template-repo) to kickstart Go-based projects on Google Cloud Run
-1. A [date parsing](https://github.com/ashishb/dateparse) library for Go that guesses the format and parses any dates
+1. A WordPress to Hugo migration tool [wp2hugo](https://github.com/ashishb/wp2hugo) that was featured on Hacker News frontpage
 
 ### Go Language
 
@@ -20,7 +20,7 @@ If you use the Go language, you would enjoy reading the [most common concurrency
 
 ### DevOps
 
-If you are a DevOps person, you would enjoy the common pitfalls of [GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/). If you use bash, consider making it more [robust](https://ashishb.net/all/the-first-two-statements-of-your-bash-script-should-be/), this check would have prevented me from deleting my full disk! I really did that [once](https://ashishb.net/tech/my-rm-rf-moment/).
+If you are a DevOps person, you would enjoy the common pitfalls of [GitHub Actions](https://ashishb.net/tech/common-pitfalls-of-github-actions/). If you use bash, consider making it more [robust](https://ashishb.net/all/the-first-two-statements-of-your-bash-script-should-be/), This check would have prevented me from deleting my full disk! I really did that [once](https://ashishb.net/tech/my-rm-rf-moment/).
 
 #### DevOps Tools
 
@@ -38,7 +38,7 @@ If you are a DevOps person, you would enjoy the common pitfalls of [GitHub Actio
 
 If you like Android, you would enjoy my critique of [React Native](https://ashishb.net/all/react-native/). A more technical reader would enjoy how to catch [NDK crashes](https://ashishb.net/all/android-catching-ndk-crashes/) and how to catch [crashes on the Javascript-to-Java bridge](https://ashishb.net/tech/cross-language-bridge-error-handling-js-to-java-example/). An old but still relevant article on using [Android Fragments](https://ashishb.net/all/android-fragment-related-pitfalls-and-how-to-avoid-them/) without crashing the app. Or how to architect [Android apps from emerging markets](https://ashishb.net/tech/architecting-android-apps-for-emerging-markets/).
 
-If you are an Android user who loves listening to music or podcasts, consider switching to [MusicSync](https://musicsync.ashishb.net/), here's my [reasoning](https://ashishb.net/all/why-i-built-an-alternative-to-google-play-music/) behind building it.
+If you are an Android user who loves listening to music or podcasts, consider switching to [MusicSync](https://musicsync.ashishb.net/), Here's my [reasoning](https://ashishb.net/all/why-i-built-an-alternative-to-google-play-music/) behind building it.
 
 #### Android Tools
 
