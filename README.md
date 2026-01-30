@@ -25,8 +25,7 @@ If you are a DevOps person, you would enjoy the common pitfalls of [GitHub Actio
 #### DevOps Tools
 
 1. [GitHub Actions Boilerplate generator](https://github.com/ashishb/gabo)
-1. [CircleCI analysis tool](https://github.com/ashishb/citool/)
-1. [Spammy/dead outbound link checker](https://github.com/ashishb/outbound-link-checker) for your blog
+1. [Amazing Sandbox to run untrusted code securely](https://github.com/ashishb/amazing-sandbox)
 
 ### Testing
 
@@ -38,7 +37,7 @@ If you are a DevOps person, you would enjoy the common pitfalls of [GitHub Actio
 
 If you like Android, you would enjoy my critique of [React Native](https://ashishb.net/all/react-native/). A more technical reader would enjoy how to catch [NDK crashes](https://ashishb.net/all/android-catching-ndk-crashes/) and how to catch [crashes on the Javascript-to-Java bridge](https://ashishb.net/tech/cross-language-bridge-error-handling-js-to-java-example/). An old but still relevant article on using [Android Fragments](https://ashishb.net/all/android-fragment-related-pitfalls-and-how-to-avoid-them/) without crashing the app. Or how to architect [Android apps from emerging markets](https://ashishb.net/tech/architecting-android-apps-for-emerging-markets/).
 
-If you are an Android user who loves listening to music or podcasts, consider switching to [MusicSync](https://musicsync.ashishb.net/), Here's my [reasoning](https://ashishb.net/all/why-i-built-an-alternative-to-google-play-music/) behind building it.
+If you are an Android user who loves listening to music or podcasts, consider switching to [MusicSync](https://musicsync.ashishb.net/). Here's my [reasoning](https://ashishb.net/all/why-i-built-an-alternative-to-google-play-music/) behind building it.
 
 #### Android Tools
 
